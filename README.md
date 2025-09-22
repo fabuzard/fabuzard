@@ -40,7 +40,7 @@ I enjoy building clean, scalable, and maintainable systems — from high-perform
 
 ## 📌 Featured Projects
 
-### [**Preloved Book Store**](https://github.com/fabuzard) (2025)
+### [**Preloved Book Store**](https://github.com/fabuzard/hacktiv8-final-preloved-book) (2025)
 Backend system for a second-hand bookstore using **microservices architecture**.  
 Features Redis integration for fast book searching, clean architecture, and scalable deployment on **GCP**.
 - **Tech Stack:** Go, Echo, PostgreSQL, GORM, Redis, GCP, Microservices
@@ -48,7 +48,7 @@ Features Redis integration for fast book searching, clean architecture, and scal
 
 ---
 
-### [**Payment & Shopping Microservices**](https://github.com/fabuzard) (2025)
+### [**Payment & Shopping Microservices**](https://github.com/fabuzard/Payment-Shopping-Microservices) (2025)
 Two microservices for e-commerce payments and shopping transactions.  
 Includes gRPC alongside REST, Dockerized, and deployed on **Google Cloud Run**.
 - **Tech Stack:** Go, Echo, MongoDB, gRPC, Docker, Cloud Run, Swagger, Cloud Scheduler
@@ -56,14 +56,14 @@ Includes gRPC alongside REST, Dockerized, and deployed on **Google Cloud Run**.
 
 ---
 
-### [**Rentacar**](https://github.com/fabuzard) (2025)
+### [**Rentacar**](https://github.com/fabuzard/Rentacar-API) (2025)
 Peer-to-peer car rental REST API with **JWT authentication** and third-party email verification.
 - **Tech Stack:** Go, Echo, PostgreSQL, GORM, Swagger, Heroku, Supabase
 - **Highlights:** Ownership validation, external API integration, unit testing
 
 ---
 
-### [**Gym API**](https://github.com/fabuzard) (2025)
+### [**Gym API**](https://github.com/fabuzard/Gym-go-app) (2025)
 REST API for fitness tracking with **workout & exercise management**.
 - **Tech Stack:** Go, Echo, MySQL, JWT, Swagger, Heroku, RapidAPI
 - **Highlights:** BMI API integration, access control, REST best practices
